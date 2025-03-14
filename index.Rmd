@@ -8,7 +8,7 @@ We are excited to have you at the **2026 Experimental Designs in the Era of Arti
 
 This workshop will gather experts to explore recent advancements in experimental design and their applications in this era of artificial intelligence. 
 
-<img src="usc_photo_1.jpeg" alt="USC Image" width="800px" />  <!-- Adjust the width as needed -->
+<img src="usc_photo_1.jpeg" alt="USC Image" width="500px" />  <!-- Adjust the width as needed -->
 
 ### Key Information:
 **More to come**
